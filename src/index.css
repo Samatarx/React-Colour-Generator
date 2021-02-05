@@ -177,6 +177,7 @@ input {
   input,
   .btn {
     font-size: 0.85rem;
+    margin: 5px;
   }
 }
 input.error {
